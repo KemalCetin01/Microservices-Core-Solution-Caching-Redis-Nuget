@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MS.Services.Core.Caching</id>
+    <version>1.0.0</version>
+    <authors>Microservices Kemal Çetin Caching</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.Extensions.Caching.Abstractions" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\bin\Debug\net9.0\MS.Services.Core.Caching.dll" target="lib\net9.0\MS.Services.Core.Caching.dll" />
+  </files>
+</package>

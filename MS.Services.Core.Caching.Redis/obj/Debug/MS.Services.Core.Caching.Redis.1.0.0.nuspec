@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MS.Services.Core.Caching.Redis</id>
+    <version>1.0.0</version>
+    <authors>Microservices Kemal Çetin</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="MS.Services.Core.Caching" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AspNetCore.HealthChecks.Redis" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Diagnostics.HealthChecks" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.DataAnnotations" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.8.24" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.Redis.dll" target="lib\net9.0\MS.Services.Core.Caching.Redis.dll" />
+  </files>
+</package>

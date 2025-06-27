@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "via4UHkv43c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\09373118\\Source\\Repos\\MS.Services.Core\\Caching\\src\\MS.Services.Core.Caching\\MS.Services.Core.Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\09373118\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.1\\microsoft.extensions.caching.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\09373118\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\09373118\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.205\\microsoft.net.sdk.compilers.toolset.9.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

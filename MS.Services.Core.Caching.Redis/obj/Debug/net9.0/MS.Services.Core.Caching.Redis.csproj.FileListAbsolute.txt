@@ -1,0 +1,15 @@
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.csproj.AssemblyReference.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.AssemblyInfoInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.AssemblyInfo.cs
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.csproj.CoreCompileInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.Redis.deps.json
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.Redis.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.Redis.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\bin\Debug\net9.0\MS.Services.Core.Caching.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Servi.ABBD7200.Up2Date
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\refint\MS.Services.Core.Caching.Redis.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\MS.Services.Core.Caching.Redis.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching.Redis\obj\Debug\net9.0\ref\MS.Services.Core.Caching.Redis.dll

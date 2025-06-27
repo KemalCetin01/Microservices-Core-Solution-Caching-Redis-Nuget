@@ -1,0 +1,12 @@
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\bin\Debug\net9.0\MS.Services.Core.Caching.deps.json
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\bin\Debug\net9.0\MS.Services.Core.Caching.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\bin\Debug\net9.0\MS.Services.Core.Caching.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.csproj.AssemblyReference.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.AssemblyInfoInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.AssemblyInfo.cs
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.csproj.CoreCompileInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\refint\MS.Services.Core.Caching.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\MS.Services.Core.Caching.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Caching\src\MS.Services.Core.Caching\obj\Debug\net9.0\ref\MS.Services.Core.Caching.dll
